@@ -1,0 +1,7 @@
+.Poster {
+    width: 100%;
+    margin-top: 90px;
+}
+.Poster img {
+    width: inherit;
+}

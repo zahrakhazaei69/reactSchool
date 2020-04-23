@@ -1,0 +1,10 @@
+@font-face {
+  font-family: BYekan;
+  src: url(./assets/fonts/BYekan.eot) format('eot'),
+  url(./assets/fonts/BYekan.woff) format('woff'),
+  url(./assets/fonts/BYekan.ttf) format('truetype')
+}
+.App {
+  font-family: BYekan;
+  text-align: center;
+}

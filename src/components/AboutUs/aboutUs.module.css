@@ -1,0 +1,7 @@
+.AboutUs {
+    display: flex;
+    flex-flow: row;
+    justify-content: space-around;
+    padding: 0 70px;
+
+}

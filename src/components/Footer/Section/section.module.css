@@ -1,0 +1,14 @@
+.Section {
+    display: inline-block;
+    color: #A1A5AA;
+    width: 300px;
+    font-size: 20px;
+    min-height: 218px;
+    margin-top: 50px;
+    vertical-align: top;
+}
+.Section h3 {
+    color: #77834D;
+   
+
+}

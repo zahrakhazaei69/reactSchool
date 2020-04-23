@@ -1,0 +1,19 @@
+.Button {
+    font-family: inherit;
+    background-color: #acb752;
+    padding: 3px 20px;
+    /* font-weight: bold; */
+    color: white;
+    border-radius: 15px;
+    text-decoration: none;
+    display: inline-block;
+    vertical-align: top;
+    line-height: 30px;
+    margin-left: 20px;
+    /* position: relative; */
+    
+}
+.Button:hover {
+    background-color: #3e5d76;
+    cursor: pointer;
+}

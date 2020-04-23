@@ -1,0 +1,29 @@
+.AboutUsItem {
+    display: inline-block;
+    position: relative;
+}
+.AboutUsItem img {
+    width: 450px;
+    height: 450px;
+    background-size: cover;
+}
+.AboutUsItem p {
+    position: absolute;
+    top: 20px;
+    right: 50px;
+    z-index: 120;
+    color: white;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.Cover {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 450px;
+    height: 450px;
+    background-color: black;
+    opacity: 0.5;
+    z-index: 100;
+}

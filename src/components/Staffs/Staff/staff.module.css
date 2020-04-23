@@ -1,0 +1,27 @@
+.Staff {
+    display: inline-block;
+}
+.Staff img {
+    width: 300px;
+    height: 300px;
+    margin: 0;
+    
+}
+.profile {
+    width: 300px;
+    height: 110px;
+    padding: 25px 30px;
+    background-color: rgba(236, 237, 239, .5);
+    box-sizing: border-box;
+    margin: 0;
+    
+}
+.profile h2 {
+    color: #3e5d76;
+    margin-top: 0;
+    margin-bottom: 0;
+
+}
+.profile p {
+    color: #acb752;
+}
